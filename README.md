@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning AWS developer tools<br>⚡ Fun fact 
+🌱 I’m currently learning AWS developer tools<br>⚡ Fun fact I've met aliens
 
 
 ## 🌐 Socials:
