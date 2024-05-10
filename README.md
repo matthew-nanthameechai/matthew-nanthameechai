@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/matthew-nanthameechai-1b3aaa267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matthew-nanthameechai-1b3aaa267/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
