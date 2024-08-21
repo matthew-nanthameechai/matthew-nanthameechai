@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello, I'm Matthew! I am a Software Developer based in Aotearoa New Zealand, always on the lookout for new and exciting opportunities.
 🌱 I’m currently learning about AWS developer tools<br>⚡ Fun fact aliens are real!
 
 
