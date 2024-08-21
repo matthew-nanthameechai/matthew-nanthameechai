@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello, I'm Matthew! I am a Software Developer based in Aotearoa New Zealand, always on the lookout for new and exciting opportunities.<br>
-🌱 I’m currently learning about AWS developer tools<br>⚡ Fun fact aliens are real!
+🌱 I’m currently learning about AWS developer tools<br>⚡ Fun fact the word bed actually looks like a bed
+
+
+
 
 
 ## 🌐 Socials:
